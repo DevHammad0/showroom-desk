@@ -2,6 +2,8 @@
 
 A clickable, browser-only demo for discussing Top Wheels' showroom workflow in Peshawar. It covers inventory, purchases, sales/POS, people and leads, payables and receivables, cash and bank, expenses, reports, printable sample sale receipts, and CSV exports.
 
+New to showroom operations? Read the [plain language app guide](docs/APP_GUIDE.md) for what each tab does and a complete example deal.
+
 ## Run locally
 
 From this directory:
