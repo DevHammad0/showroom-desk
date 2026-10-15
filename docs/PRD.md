@@ -5,7 +5,7 @@
 **Last updated:** 15 October 2026  
 **Inputs:** Owner's short brief, nine reference screenshots in `images/`, and the official sources listed below. More owner feedback and reference images may change this document.
 
-**Demo implementation:** `dist/` contains the clickable browser mockup. A public `@topwheelspk` avatar appears black and yellow; the app uses a provisional charcoal/yellow wordmark until the official logo and exact palette are supplied. See `README.md` for the local run command and review script.
+**Demo implementation:** `dist/` contains the clickable browser mockup. It uses a transparent cutout of the Top Wheels logo image supplied by the user from the showroom's Facebook profile, with the original capture retained as a source asset. See `README.md` for the local run command and review script.
 
 ## 1. Product goal
 

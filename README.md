@@ -29,7 +29,7 @@ Capture every correction to the forms, calculations and print layout in [docs/PR
 
 ## Branding note
 
-A [Top Wheels Peshawar listing](https://www.autoyas.com/PK/Peshawar/794712187345534/Top-Wheels) points to `@topwheelspk`, and [that profile's public avatar](https://urlebird.com/user/topwheelspk/) appears to use black and yellow. The avatar file was not reliably downloadable as a local asset, so this demo uses a **provisional TW wordmark** in charcoal and warm yellow. Replace it with the owner's official logo and exact color values when supplied.
+The demo uses the Top Wheels logo image supplied by the user from the showroom's Facebook profile. A transparent cutout is used in the sidebar and sample receipt; the supplied image is kept alongside it as the source. The black and yellow palette is based on that logo. A clean original logo file can replace the profile capture later.
 
 ## Scope boundary
 
